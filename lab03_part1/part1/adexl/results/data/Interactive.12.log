@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Jul 16 16:26:13 2022 
+Best design point: 1
+Design specs: 
+	lab03_part1:part1:1	corner	Nominal - 
+Design parameters: 
+	L		500n
+	VGS		0
+	W		20u
+	VDS		1.8
+	CL		1p
+	IB		20u
+	VB		730m
+	VDD		1.8
+
+Interactive.12
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.12 completed. 
+Current time: Sat Jul 16 16:26:16 2022 

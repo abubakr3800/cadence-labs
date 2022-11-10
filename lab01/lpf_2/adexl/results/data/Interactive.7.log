@@ -1,0 +1,19 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Jul 15 11:33:49 2022 
+Best design point: 1
+Design specs: 
+	lab01:lpf_2:1	corner	Nominal - 
+	trise		16.16p
+	tfall		16.16p
+Design parameters: 
+	CL		1p
+	RL		1k
+	VDD		1
+	TCLK		20n
+
+Interactive.7
+Number of points completed: 5
+Number of simulation errors: 0
+Interactive.7 completed. 
+Current time: Fri Jul 15 11:33:55 2022 

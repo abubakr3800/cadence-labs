@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Jul 15 17:24:42 2022 
+Best design point: 1
+Design specs: 
+	lab01_moslib:moss_tb:1	corner	Nominal - 
+Design parameters: 
+	L		40u
+	W		2u
+	VDS		1.8
+	VGS		0
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.0 completed. 
+Current time: Fri Jul 15 17:24:44 2022 

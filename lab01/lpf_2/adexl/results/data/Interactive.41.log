@@ -1,0 +1,18 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Jul 17 05:31:29 2022 
+Best design point: 1
+Design specs: 
+	lab01:lpf_2:1	corner	Nominal - 
+	bandwidth(mag(getData("/VOUT" ?result "ac")) 3 "low")		793.9M
+Design parameters: 
+	CL		200f
+	RL		1k
+	VDD		1
+	TCLK		20n
+
+Interactive.41
+Number of points completed: 4
+Number of simulation errors: 0
+Interactive.41 completed. 
+Current time: Sun Jul 17 05:31:39 2022 
